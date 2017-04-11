@@ -6,7 +6,7 @@ This is one of the projects built during [The Web Developer Bootcamp](https://ww
 
 ## Completed Project
 
-![Alt text](imagecomingsoon)
+![Alt text](https://github.com/DrewcHarris/Todo_List/blob/master/screenshot.png?raw=true)
 
 You can view the fully working project [here](http://codepen.io/drewharris/full/oWvNpB/).
 
